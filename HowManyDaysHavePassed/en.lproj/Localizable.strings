@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  HowManyDaysHavePassed
+
+  Created by Андрей Адельбергис on 06.12.2021.
+  
+*/
+"form-text-birhday" = "Enter birthday";
+"days_have_passed" = "Days have passed";
+"days_before_newyear" = "Days before the new year";
+"days_days_days" = "Days days days...";
+"days_from_newyear" = "Days from the new year";
+"end_of_the_month" = "Until the end of the month";
+"been_of_a_month" = "from the beginning of the mooth";
+"day_of_cosmonautics" = "Untill the day of cosmonautics";

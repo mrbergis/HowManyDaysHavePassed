@@ -1,0 +1,28 @@
+[
+  {
+    "id" : 1,
+    "name" : "days_have_passed"
+  },
+  {
+    "id" : 2,
+    "name" : "days_before_newyear"
+  },
+  {
+    "id" : 3,
+    "name" : "days_from_newyear"
+  }
+  ,
+  {
+    "id" : 4,
+    "name" : "been_of_a_month"
+  },
+  {
+    "id" : 5,
+    "name" : "end_of_the_month"
+  }
+  ,
+  {
+    "id" : 6,
+    "name" : "day_of_cosmonautics"
+  }
+]

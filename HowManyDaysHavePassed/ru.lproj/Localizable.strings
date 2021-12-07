@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  HowManyDaysHavePassed
+
+  Created by Андрей Адельбергис on 06.12.2021.
+  
+*/
+"form-text-birhday" = "Дата рождения";
+"days_have_passed" = "Дней прошло";
+"days_before_newyear" = "Дней до нового года";
+"days_days_days" = "Дни дни дни...";
+"days_from_newyear" = "Дней с нового года";
+"end_of_the_month" = "Дней до конца месяца";
+"been_of_a_month" = "Дней с начала месяца";
+"day_of_cosmonautics" = "до дня Космонавтики";
