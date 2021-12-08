@@ -17,7 +17,7 @@ struct OnboardingView: View {
             ForEach(onboardingVM.quotes) {item in
                 ZStack {
                     VStack(alignment: .center) {
-                        Text(item.textRu)
+                        Text(item.text.localized)
                             .fontWeight(.bold)
                             .font(.title)
                             .foregroundColor(.black)
@@ -27,7 +27,7 @@ struct OnboardingView: View {
                             .rotation3DEffect(.degrees(50), axis: (x:1,y:0,z:0))
                             .shadow(color: .gray, radius: 2, x: 0, y: 15)
                         HStack {
-                            Text(item.authorRu)
+                            Text(item.author.localized)
                                 .foregroundColor(.gray)
                                 .shadow(color: .gray, radius: 1, x: 0, y: 10)
                             Spacer()

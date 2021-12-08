@@ -9,8 +9,6 @@ import Foundation
 
 struct QuotesModel: Identifiable {
     var id = UUID()
-    var authorRu: String
-    var textRu: String
-    var authorEn: String
-    var textEn: String
+    var author: String
+    var text: String
 }

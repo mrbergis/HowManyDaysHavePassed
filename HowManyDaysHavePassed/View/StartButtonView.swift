@@ -19,7 +19,7 @@ struct StartButtonView: View {
             isOnboarding = false
         }) {
             HStack(spacing: 8) {
-                Text("Start")
+                Text("starbutton_text_start")
                     .foregroundColor(.gray)
                 Image(systemName: "arrow.right.circle")
                     .imageScale(.large)

@@ -13,4 +13,12 @@
 "end_of_the_month" = "Until the end of the month";
 "been_of_a_month" = "from the beginning of the mooth";
 "day_of_cosmonautics" = "Untill the day of cosmonautics";
+"starbutton_text_start" = "Start";
 
+//Цитаты
+"quote_one_text" = "It doesn't work like that. Some people live more in twenty years than others do in eighty. It's not the time that matters, it's the person.";
+"quote_one_author" = "Doctor Who";
+"quote_two_text" = "As if you could kill time without injuring eternity.";
+"quote_two_author" = "Henry David Thoreau";
+"quote_three_text" = "Do not count your chickens before they are hatched.";
+"quote_three_author" = "Aesop";

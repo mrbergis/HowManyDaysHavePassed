@@ -13,3 +13,12 @@
 "end_of_the_month" = "Дней до конца месяца";
 "been_of_a_month" = "Дней с начала месяца";
 "day_of_cosmonautics" = "до дня Космонавтики";
+"starbutton_text_start" = "Начать";
+
+//Цитаты
+"quote_one_text" = "Дело не во времени, кто-то за двадцать лет делает больше, чем другой за восемьдесят.";
+"quote_one_author" = "Доктор Кто";
+"quote_two_text" = "Вы не можете убить время без вреда для вечности.";
+"quote_two_author" = "Генри Дэвид Торо";
+"quote_three_text" = "Цыплят по осени считают.";
+"quote_three_author" = "Эзоп";
