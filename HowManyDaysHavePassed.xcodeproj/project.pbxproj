@@ -24,6 +24,7 @@
 		81C426BF276028B900AAAC66 /* OnboardingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C426BE276028B900AAAC66 /* OnboardingViewModel.swift */; };
 		81C426C1276031D800AAAC66 /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C426C0276031D800AAAC66 /* StartButtonView.swift */; };
 		81C426C327603CFB00AAAC66 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C426C227603CFB00AAAC66 /* MainView.swift */; };
+		81C426C527603F1D00AAAC66 /* DevelopmentsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C426C427603F1D00AAAC66 /* DevelopmentsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		81C426BE276028B900AAAC66 /* OnboardingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewModel.swift; sourceTree = "<group>"; };
 		81C426C0276031D800AAAC66 /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
 		81C426C227603CFB00AAAC66 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		81C426C427603F1D00AAAC66 /* DevelopmentsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevelopmentsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				8172B348275E843E00238152 /* DateDaysView.swift */,
 				81C426B82760219900AAAC66 /* OnboardingView.swift */,
 				81C426C0276031D800AAAC66 /* StartButtonView.swift */,
+				81C426C427603F1D00AAAC66 /* DevelopmentsView.swift */,
 				81C426C227603CFB00AAAC66 /* MainView.swift */,
 			);
 			path = View;
@@ -226,6 +229,7 @@
 				81C426B7275EFBAA00AAAC66 /* DateExtension.swift in Sources */,
 				81C426BB2760256A00AAAC66 /* QuotesData.swift in Sources */,
 				8172B349275E843E00238152 /* DateDaysView.swift in Sources */,
+				81C426C527603F1D00AAAC66 /* DevelopmentsView.swift in Sources */,
 				81C426B3275E9F9B00AAAC66 /* DateDaysViewModel.swift in Sources */,
 				81C426BD276025B400AAAC66 /* QuotesModel.swift in Sources */,
 				81C426B92760219900AAAC66 /* OnboardingView.swift in Sources */,

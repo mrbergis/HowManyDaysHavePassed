@@ -17,6 +17,7 @@
 
 //Main
 "mainview_text_datedays" = "Days";
+"mainview_text_developments" = "Developments";
 
 //Цитаты
 "quote_one_text" = "It doesn't work like that. Some people live more in twenty years than others do in eighty. It's not the time that matters, it's the person.";

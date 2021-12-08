@@ -18,6 +18,11 @@ struct MainView: View {
                     Image(systemName: "clock")
                     Text("mainview_text_datedays")
                 }
+            DevelopmentsView()
+                .tabItem {
+                    Image(systemName: "star.square")
+                    Text("mainview_text_developments")
+                }
         } //: TAB
     }
 }
