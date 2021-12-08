@@ -15,6 +15,9 @@
 "day_of_cosmonautics" = "Untill the day of cosmonautics";
 "starbutton_text_start" = "Start";
 
+//Main
+"mainview_text_datedays" = "Days";
+
 //Цитаты
 "quote_one_text" = "It doesn't work like that. Some people live more in twenty years than others do in eighty. It's not the time that matters, it's the person.";
 "quote_one_author" = "Doctor Who";

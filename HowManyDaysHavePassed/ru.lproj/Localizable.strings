@@ -22,3 +22,6 @@
 "quote_two_author" = "Генри Дэвид Торо";
 "quote_three_text" = "Цыплят по осени считают.";
 "quote_three_author" = "Эзоп";
+
+//Main
+"mainview_text_datedays" = "Дни";
