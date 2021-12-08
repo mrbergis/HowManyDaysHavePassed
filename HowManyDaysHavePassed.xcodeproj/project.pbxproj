@@ -18,6 +18,11 @@
 		81C426B3275E9F9B00AAAC66 /* DateDaysViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C426B2275E9F9B00AAAC66 /* DateDaysViewModel.swift */; };
 		81C426B5275EA20A00AAAC66 /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C426B4275EA20A00AAAC66 /* StringExtension.swift */; };
 		81C426B7275EFBAA00AAAC66 /* DateExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C426B6275EFBAA00AAAC66 /* DateExtension.swift */; };
+		81C426B92760219900AAAC66 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C426B82760219900AAAC66 /* OnboardingView.swift */; };
+		81C426BB2760256A00AAAC66 /* QuotesData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C426BA2760256A00AAAC66 /* QuotesData.swift */; };
+		81C426BD276025B400AAAC66 /* QuotesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C426BC276025B400AAAC66 /* QuotesModel.swift */; };
+		81C426BF276028B900AAAC66 /* OnboardingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C426BE276028B900AAAC66 /* OnboardingViewModel.swift */; };
+		81C426C1276031D800AAAC66 /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C426C0276031D800AAAC66 /* StartButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +39,11 @@
 		81C426B2275E9F9B00AAAC66 /* DateDaysViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateDaysViewModel.swift; sourceTree = "<group>"; };
 		81C426B4275EA20A00AAAC66 /* StringExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
 		81C426B6275EFBAA00AAAC66 /* DateExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateExtension.swift; sourceTree = "<group>"; };
+		81C426B82760219900AAAC66 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		81C426BA2760256A00AAAC66 /* QuotesData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesData.swift; sourceTree = "<group>"; };
+		81C426BC276025B400AAAC66 /* QuotesModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesModel.swift; sourceTree = "<group>"; };
+		81C426BE276028B900AAAC66 /* OnboardingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewModel.swift; sourceTree = "<group>"; };
+		81C426C0276031D800AAAC66 /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +101,8 @@
 			isa = PBXGroup;
 			children = (
 				8172B348275E843E00238152 /* DateDaysView.swift */,
+				81C426B82760219900AAAC66 /* OnboardingView.swift */,
+				81C426C0276031D800AAAC66 /* StartButtonView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -99,6 +111,7 @@
 			isa = PBXGroup;
 			children = (
 				81C426B2275E9F9B00AAAC66 /* DateDaysViewModel.swift */,
+				81C426BE276028B900AAAC66 /* OnboardingViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -107,6 +120,7 @@
 			isa = PBXGroup;
 			children = (
 				81C426AD275E9EDB00AAAC66 /* DateDaysModel.swift */,
+				81C426BC276025B400AAAC66 /* QuotesModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -115,6 +129,7 @@
 			isa = PBXGroup;
 			children = (
 				81C426AB275E9C9E00AAAC66 /* dateDays.json */,
+				81C426BA2760256A00AAAC66 /* QuotesData.swift */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -205,8 +220,13 @@
 				81C426B5275EA20A00AAAC66 /* StringExtension.swift in Sources */,
 				81C426B1275E9F3000AAAC66 /* CodableBundleExtension.swift in Sources */,
 				81C426B7275EFBAA00AAAC66 /* DateExtension.swift in Sources */,
+				81C426BB2760256A00AAAC66 /* QuotesData.swift in Sources */,
 				8172B349275E843E00238152 /* DateDaysView.swift in Sources */,
 				81C426B3275E9F9B00AAAC66 /* DateDaysViewModel.swift in Sources */,
+				81C426BD276025B400AAAC66 /* QuotesModel.swift in Sources */,
+				81C426B92760219900AAAC66 /* OnboardingView.swift in Sources */,
+				81C426BF276028B900AAAC66 /* OnboardingViewModel.swift in Sources */,
+				81C426C1276031D800AAAC66 /* StartButtonView.swift in Sources */,
 				8172B347275E843E00238152 /* HowManyDaysHavePassedApp.swift in Sources */,
 				81C426AE275E9EDB00AAAC66 /* DateDaysModel.swift in Sources */,
 			);

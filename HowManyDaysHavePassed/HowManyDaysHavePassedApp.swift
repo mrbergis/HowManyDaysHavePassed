@@ -9,9 +9,15 @@ import SwiftUI
 
 @main
 struct HowManyDaysHavePassedApp: App {
+    @AppStorage("isOnboarding") var isOnboarding: Bool = true
+    
     var body: some Scene {
         WindowGroup {
-            DateDaysView()
+            if isOnboarding {
+                OnboardingView()
+            } else {
+                DateDaysView()
+            }
         }
     }
 }
