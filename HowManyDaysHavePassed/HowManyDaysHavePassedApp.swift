@@ -16,7 +16,7 @@ struct HowManyDaysHavePassedApp: App {
             if isOnboarding {
                 OnboardingView()
             } else {
-                DateDaysView()
+                MainView()
             }
         }
     }

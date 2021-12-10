@@ -55,8 +55,10 @@ struct OnboardingView_Previews: PreviewProvider {
         Group {
             OnboardingView()
                 .preferredColorScheme(.dark)
+                .environment(\.locale, .init(identifier: "en"))
             OnboardingView()
                 .preferredColorScheme(.light)
+                .environment(\.locale, .init(identifier: "ru"))
         }
     }
 }
